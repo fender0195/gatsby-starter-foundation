@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: Fender Jave
-tagline: Web Developer
-featuredImage: /assets/cubism-assignment.jpeg
+tagline: Web Development Student
+featuredImage: /assets/stephan-schmid-emwpxxbqcam-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
