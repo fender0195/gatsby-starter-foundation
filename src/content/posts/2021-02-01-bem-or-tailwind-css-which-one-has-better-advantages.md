@@ -4,6 +4,7 @@ title: BEM or Tailwind CSS which one has better advantages?
 slug: bem-tailwind-css
 date: 2021-01-31 22:25
 description: The advantages of using BEM and Tailwind CSS
+featuredImage: /assets/markus-spiske-70rir5vb96u-unsplash.jpg
 ---
 Tailwind and BEM are two different ways of writing CSS and differentiating them is a bit difficult as they are both very helpful when programming. But in this article, I have written the best advantages to know when to use BEM and Tailwind when it is most needed.
 
