@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Why is it important to choose the correct typography in web design?
-slug: /.typography-importance
+slug: /.importance-of-typography-in-web-design
 date: 2021-02-14 12:15
 description: The importance to choose the correct typography in web design.
 featuredImage: /assets/markus-spiske-cz-s645zbho-unsplash.jpg
