@@ -66,7 +66,12 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+          implementation: require('sass')
+      },
+  },
     `gatsby-plugin-react-helmet`,
     'gatsby-plugin-theme-ui',
     `gatsby-plugin-netlify-cms`,
