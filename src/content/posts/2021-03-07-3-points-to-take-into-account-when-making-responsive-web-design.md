@@ -4,6 +4,7 @@ title: 3 Points to Take Into Account When Making Responsive Web Design
 slug: 3-points-for-responsive-web-design
 date: 2021-03-07 11:34
 description: 3 Points to Take Into Account When Making Responsive Web Design
+featuredImage: /assets/domenico-loia-ehtcc9syxsw-unsplash.jpg
 ---
 # Responsive Web Design
 ---
@@ -49,9 +50,6 @@ The reasons are clear, the user experience will improve considerably, we avoid p
 ---
 * **Loading a Website**:
   * One of the biggest problems we find when we do an audit in responsive designs is the loading of elements do not differentiate at the server level. This is a big problem when loading the website since when making the responsive website, the same resources are loaded as for a desktop website. To solve this, we should try to use libraries that allow us to do a conditional page load, avoiding loading unnecessary resources when people visit from their mobile devices.
-
-![Loading](nordwood-themes-kRNZiGKtz48-unsplash.jpg)
-
 
 
 * **Screen Sizes**:
