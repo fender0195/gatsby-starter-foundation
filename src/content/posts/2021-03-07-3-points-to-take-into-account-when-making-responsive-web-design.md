@@ -50,7 +50,10 @@ The reasons are clear, the user experience will improve considerably, we avoid p
 * **Loading a Website**:
   * One of the biggest problems we find when we do an audit in responsive designs is the loading of elements do not differentiate at the server level. This is a big problem when loading the website since when making the responsive website, the same resources are loaded as for a desktop website. To solve this, we should try to use libraries that allow us to do a conditional page load, avoiding loading unnecessary resources when people visit from their mobile devices.
 
-![Loading](https://unsplash.com/photos/kRNZiGKtz48)
+![Loading](nordwood-themes-kRNZiGKtz48-unsplash.jpg)
+
+
+
 * **Screen Sizes**:
 
   * One has to be very careful when designing websites. It is recommended to design with the mobile-first pattern to avoid having adaptation problems with the screens. It is also necessary to avoid overloading the page with useless elements. The large number of devices and screens that exist at the moment in the market is immense. We have to take into account fluid and non-static content sizes to avoid users who do not see our content well, leading them to a bad user experience.
