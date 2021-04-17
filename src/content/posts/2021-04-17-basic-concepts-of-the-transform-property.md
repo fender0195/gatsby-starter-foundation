@@ -4,6 +4,7 @@ title: Basic Concepts of the transform-property
 slug: basic-concepts-transform-property
 date: 2021-04-16 20:10
 description: This post is about the basic concepts of the transform-property
+featuredImage: /assets/pankaj-patel-sxihya4oejs-unsplash.jpg
 ---
 ## Concept about Transform Property
 <p>Transformation in CSS3 is an effect that allows an element to change shape, size, or position. The transformation itself is not an animation but it simply shows the changed element. However, the transform property can be used in animations and transitions, allowing us to see how the element changes shape, size, or position. We have two types of transform properties, which are 2D or in the plane, and 3D or in space.
