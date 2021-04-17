@@ -145,6 +145,7 @@ The property has two values, the first of which indicates the X (horizontal) coo
   See the Pen <a href='https://codepen.io/fender0195/pen/XWpBNZy'>Spinner 3D transform CSS</a> by fender0195
   (<a href='https://codepen.io/fender0195'>@fender0195</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
-
-#### Link to Original Codepen
-* [Spinner 3D transform CSS](https://codepen.io/davidrogers/pen/ERNRgq)
+<figcaption>
+  Spinner 3D transform CSS (inspired by <a href="https://codepen.io/davidrogers/pen/ERNRgq">@davidrogers</a>)
+  <figcaption>
+</figcaption></figcaption>
